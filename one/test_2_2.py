@@ -32,7 +32,7 @@
 
 s = 'Hello world!'
 
-print(s[0:12])  # Hello!
+print(s[0:12])  # Hello world!
 print(s[-1])  # !
 print(s[0:5])  # Hello
 print(s[:5])  # Hello
